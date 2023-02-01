@@ -1,0 +1,33 @@
+﻿using System;
+
+namespace OperatorsInClass
+{
+
+    class Program
+    {
+
+static void Main(string[] args)
+{
+    //For division, create two integer variable
+    var a = 17;
+    var b = 4;
+    var quotient = a / b;
+    var remainder = a % b;
+
+
+    Console.WriteLine($"{a} / {b} is {quotient} remainder {remainder}");
+
+}
+
+
+public static AreaOfCircle(double radius)
+
+{
+            var area = Math.PI * Math.Powl(radius, 2);
+
+{
+    Console.WriteLine(“What is the radius of your circle ?”);
+
+    var radius = double.Parse(Console.ReadLine());
+
+}
